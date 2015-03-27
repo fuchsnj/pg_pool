@@ -1,0 +1,10 @@
+[package]
+
+name = "pg_pool"
+version = "0.0.1"
+authors = ["Nathan Fuchs"]
+
+[dependencies]
+rustc-serialize = "*"
+postgres = "*"
+threadpool = "*"
